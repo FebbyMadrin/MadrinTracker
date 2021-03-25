@@ -1,4 +1,4 @@
-update=03/24/21 15:16:07
+update=03/25/21 12:06:05
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
+LastNetListRead=MadrinTrack2.net
 CopperLayerCount=4
 BoardThickness=1.6
 AllowMicroVias=0
@@ -73,7 +73,7 @@ OthersTextUpright=1
 SolderMaskClearance=0
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0

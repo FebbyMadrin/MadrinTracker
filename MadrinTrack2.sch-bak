@@ -87,7 +87,7 @@ U 1 1 606B14B6
 P 3650 6050
 F 0 "J1" V 3650 6125 50  0000 L CNN
 F 1 "Jumper_NC_Small" V 3695 6124 50  0001 L CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 3650 6050 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" H 3650 6050 50  0001 C CNN
 F 3 "~" H 3650 6050 50  0001 C CNN
 	1    3650 6050
 	0    1    1    0   
@@ -151,7 +151,7 @@ U 1 1 606B623E
 P 2300 5900
 F 0 "C1" H 2392 5946 50  0000 L CNN
 F 1 "10nF" H 2392 5855 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 2300 5900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2300 5900 50  0001 C CNN
 F 3 "~" H 2300 5900 50  0001 C CNN
 	1    2300 5900
 	1    0    0    -1  
@@ -327,7 +327,7 @@ U 1 1 606CB3DC
 P 5375 6175
 F 0 "C2" H 5467 6221 50  0000 L CNN
 F 1 "C_Small" H 5467 6130 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 5375 6175 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5375 6175 50  0001 C CNN
 F 3 "~" H 5375 6175 50  0001 C CNN
 	1    5375 6175
 	1    0    0    -1  

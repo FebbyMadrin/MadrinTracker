@@ -611,4 +611,37 @@ $EndComp
 NoConn ~ 5350 3050
 Wire Wire Line
 	5800 3750 5975 3750
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 60601C51
+P 10200 5475
+F 0 "FID1" H 10285 5521 50  0000 L CNN
+F 1 "Fiducial" H 10285 5430 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.75mm_Mask1.5mm" H 10200 5475 50  0001 C CNN
+F 3 "~" H 10200 5475 50  0001 C CNN
+	1    10200 5475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 60602567
+P 10200 5675
+F 0 "FID2" H 10285 5721 50  0000 L CNN
+F 1 "Fiducial" H 10285 5630 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.75mm_Mask1.5mm" H 10200 5675 50  0001 C CNN
+F 3 "~" H 10200 5675 50  0001 C CNN
+	1    10200 5675
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 6060289C
+P 10200 5875
+F 0 "FID3" H 10285 5921 50  0000 L CNN
+F 1 "Fiducial" H 10285 5830 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.75mm_Mask1.5mm" H 10200 5875 50  0001 C CNN
+F 3 "~" H 10200 5875 50  0001 C CNN
+	1    10200 5875
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
